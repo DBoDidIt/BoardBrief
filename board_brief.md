@@ -107,6 +107,40 @@ This document serves as the foundational context for board service, evaluating i
 3. **Meticulous Detail:** When reviewing board packets, prioritize finding discrepancies between "Policy" and "Performance."
 4. **The Brief:** Every Monday at 08:00, generate the Presidential Brief focusing on the prior week's volatility and its direct impact on the CU balance sheet.
 
+---
+
+## 9. Institutional Context: Red Rocks Credit Union (RRCU)
+**Entity Type:** State-Chartered Credit Union | **Regulator:** NCUA / Colorado Division of Financial Services
+
+### A. Core Profile
+* **Headquarters:** Littleton, Colorado.
+* **Service Counties:** Douglas, Arapahoe, Jefferson.
+* **Legacy Pillar:** Strong ties to **Lockheed Martin** (formerly Martin Marietta); new Waterton Campus branch (Jan 2025).
+* **Asset Size:** ~$360M (Scale: 13th largest in CO).
+* **Net Worth Ratio:** ~9.78% (Well Capitalized).
+
+### B. Strategic & Technical Snapshot
+| Area | Status/Partnership | Strategic Significance |
+| :--- | :--- | :--- |
+| **Lending Focus** | HELOC & Indirect Auto | High-credit tier (700+) focus to mitigate risk in a high-rate environment. |
+| **Fintech Stack** | Upstart (AI Lending) | Strategic reliance on third-party AI models for personal loan growth. |
+| **Liquidity** | Participation-heavy | Use of non-member CDs and loan participations to manage cash flow. |
+| **Community** | Made to Impact Foundation | Key for "Member Trust" score; focuses on local mental health and veterans. |
+
+### C. Regional Macro Pressures (Colorado Front Range)
+1. **The "Housing Lock-In":** Low inventory in Highlands Ranch/Littleton leads to higher demand for **Equity-based lending** over new purchases.
+2. **Aerospace Concentration:** Direct correlation between Lockheed Martin's local workforce stability and the CU's deposit/loan performance.
+3. **Tech Expectations:** High-income, tech-literate membership requires 99.9% uptime and modern digital UX (Audit focus).
+
+---
+
+## 10. Master Instruction Set (AI Chief of Staff)
+*The following context is applied to all generated Briefs:*
+* **Location Filter:** Colorado-specific regulatory and economic shifts.
+* **Employer Filter:** Monitor aerospace/defense industry news for impact on Lockheed members.
+* **Risk Filter:** Prioritize **Model Risk Management (MRM)** for AI-lending partnerships (Upstart).
+* **Reporting Tone:** Direct, technical, and protective of fiduciary duty.
+
 ## Change Log & Version History
 | Date | Version | Update Summary |
 | :--- | :--- | :--- |
