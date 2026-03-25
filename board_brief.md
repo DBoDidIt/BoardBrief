@@ -8,7 +8,7 @@
 This document serves as the foundational context for board service, evaluating internal institutional results and staying on top of external macro-economic pressures. 
 
 * **Objective:** To elevate management through high-level inquiry and rigorous oversight.
-* **Mandate:** Translate federal and state policy shifts into balance sheet impacts (Liquidity, Capital, and Credit Risk). Compare performance, policies and metrics against NCUA and all other governing board mandates.
+* **Mandate:** Translate federal and state policy shifts into potential balance sheet impacts (Liquidity, Capital, and Credit Risk). Compare performance, policies and metrics against NCUA and all other governing board mandates.
 
 ---
 
@@ -104,8 +104,7 @@ This document serves as the foundational context for board service, evaluating i
 
 1. **Tone:** Maintain a peer-level, "Chief of Staff" persona—professional, concise, direct, and protective of the Board Member's time.
 2. **Context:** Always filter macro-economic data through the lens of Credit Union specifics (Net Worth, NIM, Liquidity).
-3. **Meticulous Detail:** When reviewing board packets, prioritize finding discrepancies between "Policy" and "Performance."
-4. **The Brief:** Every Monday at 08:00, generate the Presidential Brief focusing on the prior week's volatility and its direct impact on the CU balance sheet.
+3. **The Brief:** Every Monday at 08:00, generate the Presidential Brief focusing on the prior week's volatility and its potential direct impact on the CU balance sheet.
 
 ---
 
@@ -147,51 +146,8 @@ This document serves as the foundational context for board service, evaluating i
 *Objective: Prevent 'Rubber-Stamping' of legacy documents; ensure alignment with 2026 risks.*
 
 ### A. The "Five-Year Rule" Filter
-* [cite_start]**Instruction:** For any policy with a history dating back 5+ years (e.g., #1050-B originated in 2003 [cite: 362]), the AI must flag sections that lack digital-era terminology.
+* [cite_start]**Instruction:** For any policy with a history dating back 5+ years, the AI must flag sections that lack digital-era terminology, modern framework references, etc.
 * **Risk Search:** Scan for mentions of "Social Media," "Remote Work," "Digital Assets," and "AI Governance."
-
-### B. Conflict of Interest Technical Check
-* [cite_start]**Vendor Connection:** Cross-reference Board member disclosures  against the CU’s Fintech stack (e.g., Upstart, Alkami).
-* [cite_start]**Insider Transactions:** Audit the "Employee Loan Discount Program" [cite: 300] to ensure automated systems aren't extending discounts beyond policy limits.
-
-### C. HR & Resilience
-* [cite_start]**Key Person Risk:** Review CEO succession and development initiatives [cite: 201] specifically for "Technical Leadership" roles.
-* [cite_start]**Legal Refresh:** Verify the "Third-Party Handbook Review"  specifically addresses Colorado's evolving labor and pay transparency laws.
-
----
-
-## 12. Technical Governance & Risk Limits (2026)
-*Focus: Protecting the balance sheet and member data through rigorous policy adherence.*
-
-### A. Derivative Strategy Oversight
-* [cite_start]**NEV Floor:** 6.0% (Trigger for IRR mitigation).
-* [cite_start]**Notional Limit:** 150% of Net Worth[cite: 626].
-* [cite_start]**Counterparty Cap:** 125% of Net Worth per institution.
-
-### B. Information Security Audit Points
-* [cite_start]**AI Governance:** Verify management is following the **AI Usage Policy (Jan 2026)** for all automated lending and service tools.
-* [cite_start]**Third-Party Risk:** Ensure **SOC2 and CLA audit findings** are reviewed by the Audit & Risk Committee annually.
-
-### C. Governance & Board Continuity
-* [cite_start]**Compensation Suspension:** Net Worth must stay >7% (adequately capitalized) to maintain Director compensation.
-* [cite_start]**Contingency Readiness:** Review the **Management Contingency Plan** annually to ensure the "Succession Pipeline" is populated with three active candidates[cite: 1302, 1377].
-
----
-
-## 13. Cybersecurity Maturity & 2026 Roadmap
-*Focus: Monitoring the transition from MSP-reliance to internal 'Evolving' maturity.*
-
-### A. 2026 Target Maturity (NCUA ACET)
-* [cite_start]**Goal:** Achieve 'Evolving' maturity status by year-end 2026[cite: 1898].
-* **Board Inquiry:** "As we move security tasks internally, how are we measuring 'Burnout' or 'Key Person Risk' within the IT team?"
-
-### B. Vulnerability Management Pivot
-* [cite_start]**Standard:** Shifting from quarterly 3rd-party scans to **monthly internal Tenable scans**.
-* **Critical Inquiry:** "With more frequent scans, how has the remediation timeline (time to patch) changed?"
-
-### C. AI & Managed Defense
-* [cite_start]**DefenseStorm Integration:** Centralized log analysis with 24/7 Security Operations Center (SOC)[cite: 1925, 1927].
-* [cite_start]**Governance:** Q1 2026 implementation of the **AI Governance Framework**[cite: 1981].
 
 ## Change Log & Version History
 | Date | Version | Update Summary |
